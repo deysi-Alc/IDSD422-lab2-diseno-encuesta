@@ -11,7 +11,7 @@
 - Deysi Guachamin
 
 **Fecha:** 26/10/2026  
-**Repositorio (fork):** https://github.com/Daxin7/IDSD422-lab2-diseno-encuesta  
+**Repositorio (fork):** https://github.com/deysi-Alc/IDSD422-lab2-diseno-encuesta.git
 **Enfoque del equipo (propuesto, pendiente de aprobación):** Satisfacción general y beneficios esperados de un programa de fidelización en compradores adultos de Quito.
 
 ---
